@@ -1,0 +1,1 @@
+# GNCIPL-Internship-Project-Language-Detector-ANN
